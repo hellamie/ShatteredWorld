@@ -42,11 +42,12 @@ val foodGroupBurger = [
   <harvestcraft:deluxecheeseburgerItem>,	/*  3 - Deluxecheeseburger */
   <harvestcraft:delightedmealItem>,		/*  4 - Delightedmeal */
   <harvestcraft:baconmushroomburgerItem>,	/*  5 - Baconmushroomburger */
-  <harvestcraft:chickensandwichItem>,		/*  6 - Chickensandwich */
-  <harvestcraft:fishsandwichItem>,		/*  7 - Fishsandwich */
-  <harvestcraft:leafychickensandwichItem>,	/*  8 - Leafychickensandwich */
-  <harvestcraft:leafyfishsandwichItem>,		/*  9 - Leafyfishsandwich */
-  <harvestcraft:bltItem>			/* 10 - BLT */
+  <harvestcraft:beetburgerItem>,		/*  6 - Beet Burger */
+  <harvestcraft:coleslawburgerItem>,		/*  7 - Coleslaw Burger */
+  <harvestcraft:mcpamItem>,	/*  8 -McPam */
+  <harvestcraft:onionhamburgerItem>,		/*  9 - Onion Hamburger */
+  <harvestcraft:bltItem>,			/* 10 - BLT */
+  <plainsmobs:bulwarkburgerItem>   /* 11 - Bulwark Burger */
 ] as IItemStack[];
 
 val foodGroupSmoothie = [
